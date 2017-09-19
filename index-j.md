@@ -1,5 +1,3 @@
-# 自己紹介
-
 今崎憲児と言います。Googleでテストエンジニアをしています。[Seattle IT Japanese Professionals](http://sijp.org)というNPO団体にも所属しています。
 
 - [FB](https://www.facebook.com/kenji.imasaki)
@@ -18,7 +16,7 @@ GoogleのカークランドオフィスでTest Engineerをしています。詳�
 
 楽しくコンピュータを学んでもらうメソッドに興味があります。特に、Unpluggedメソッドには興味があります。
 
-![Computer Lecture]({{ site.url }}/images/sijp-computer-class-06-1.jpg)
+![Computer Lecture]({{ site.baseurl }}/images/sijp-computer-class-06-1.jpg)
 
 - 連載中[コンピュータ教育プロジェクト](http://www.junglecity.com/people/essay-stem-education/)
 - [SIJPホームページでの記事](http://sijp.org/category/education/)

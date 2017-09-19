@@ -1,10 +1,5 @@
 今崎憲児と言います。Googleでテストエンジニアをしています。[Seattle IT Japanese Professionals](http://sijp.org)というNPO団体にも所属しています。
 
-- [FB](https://www.facebook.com/kenji.imasaki)
-- [Twitter](https://twitter.com/kenjisea)
-- [LinkedIn](https://www.linkedin.com/in/kenjii/)
-
-
 ## 仕事
 
 GoogleのカークランドオフィスでTest Engineerをしています。詳しくは次の記事を参照してください。

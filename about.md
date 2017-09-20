@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Test Engineer at Google. I am also member of [Seattle IT Japanese Professionals](http://sijp.org).
 
-### More Information
+## Work
 
-A place to include any other types of information that you'd like to include about yourself.
+At Kirkland office, I am working on Mobile testing.
 
-### Contact me
+## Computer Science Education
 
-[email@domain.com](mailto:email@domain.com)
+I want to make computer science fun for everybody. I am interested in
+unplugged methods.
+
+![Computer Lecture]({{ site.baseurl }}/images/sijp-computer-class-06-1.jpg)
+
+## Kumamoto
+
+I am active member of [Kumamoto Aid From Seattle](http://kumamoto-aid.weebly.com).
+

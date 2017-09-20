@@ -27,7 +27,5 @@ GoogleのカークランドオフィスでTest Engineerをしています。詳�
 
 また、６月に熊本の豊福小学校と熊本高専で[特別講演](http://www.junglecity.com/people/essay-stem-education/sijp-in-kumamoto/)も行いました。
 
+２０１７年１０月７日に[熊本映画上映会](http://kumamoto-aid.weebly.com/movie2.html)をします。
 
-# コンタクト
-
-kenji(at)imasaki.net

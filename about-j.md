@@ -7,6 +7,8 @@ GoogleのカークランドオフィスでTest Engineerをしています。詳�
 - [Story of My life](http://story-of-mylife.com/%E4%BB%8A%E5%B4%8E%E6%86%B2%E5%85%90%E3%81%95%E3%82%93/)
 - [私の転機](http://www.youmaga.com/seattleite/tenki/2014_05.php)
 
+![Google]({{ site.baseurl }}/images/google.jpg)
+
 ## Computer Science 教育
 
 楽しくコンピュータを学んでもらうメソッドに興味があります。特に、Unpluggedメソッドには興味があります。
@@ -29,3 +31,4 @@ GoogleのカークランドオフィスでTest Engineerをしています。詳�
 
 ２０１７年１０月７日に[熊本映画上映会](http://kumamoto-aid.weebly.com/movie2.html)をします。
 
+![Kumamoto]({{ site.baseurl }}/images/kumamoto.jpg)

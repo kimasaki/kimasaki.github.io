@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Test Engineer at Google. I am also member of [Seattle IT Japanese Professionals](http://sijp.org). I am from Kuamoto, Japan.
+I am a Enginner at Facebook/Oculus. I am also member of [Seattle IT Japanese Professionals](http://sijp.org). I am from Kumamoto, Japan.
 
 ## Work
 

@@ -28,6 +28,11 @@ GoogleのBellevueでTest Engineerをしています。
 
 また、６月に熊本の豊福小学校と熊本高専で[特別講演](http://www.junglecity.com/people/essay-stem-education/sijp-in-kumamoto/)も行いました。
 
-２０１７年１０月７日に[熊本映画上映会](http://kumamoto-aid.weebly.com/movie2.html)をします。
+２０１６年９月３、４日に[熊本映画上映会「うつくしいひと」](http://kumamoto-aid.weebly.com/movie.html)をしました。
+２０１７年１０月７日に[熊本映画上映会「うつくしいひとサバ」](http://kumamoto-aid.weebly.com/movie2.html)をしました。
 
 ![Kumamoto]({{ site.baseurl }}/images/kumamoto.jpg)
+
+## Quiz Show
+
+[日本クイズ大会](https://studentweb.bellevuecollege.edu/japan-week/japan-trivia-contest/)

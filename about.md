@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am a Test Engineer at Google. I am also member of [Seattle IT Japanese Professionals](http://sijp.org). I am from Kuamoto, Japan.
+I am a Test Engineer at Google. I am also member of [Seattle IT Japanese Professionals](http://sijp.org). I am from Kuamoto, Japan. I also teaches computer science in my spare time.
 
 ## Work
 
-At Kirkland office, I am working on Mobile testing.
+At Belleve office, I am working on Chrome testing.
 
 ![Google]({{ site.baseurl }}/images/google.jpg)
 

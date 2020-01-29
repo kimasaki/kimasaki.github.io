@@ -17,7 +17,11 @@ At Belleve office, I am working on Chrome testing.
 I want to make computer science fun for everybody. I am interested in
 unplugged methods.
 
+My current project is called [CS in English](https://csinenglish.club)
+
 ![Computer Lecture]({{ site.baseurl }}/images/sijp-computer-class-06-1.jpg)
+
+
 
 ## Kumamoto
 

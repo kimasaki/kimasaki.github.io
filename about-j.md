@@ -6,7 +6,7 @@
 
 ## 仕事
 
-GoogleのBellevueでTest Engineerをしています。
+GoogleのKirkland OfficeでTest Engineerをしています。
 
 ![Google]({{ site.baseurl }}/images/google.jpg)
 
